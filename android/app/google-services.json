@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1057985438576",
+    "project_id": "luggage-customer",
+    "storage_bucket": "luggage-customer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057985438576:android:8d6abcb1b2c129d2daa5b5",
+        "android_client_info": {
+          "package_name": "com.noteBook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA1DHPM_JT_qk_f6WEgPFlrBvW-8TchBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
